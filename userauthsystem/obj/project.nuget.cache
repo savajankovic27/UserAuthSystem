@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGke4lwZYfbWgltEnm3cOcyVJ8JwvvrNDZqhovlP9XJN7suLutQ6WAxJ2ohLHkqjqxOnjSNMhdIdB4lY1d0Jrw==",
+  "success": true,
+  "projectFilePath": "/Users/savajankovic/Desktop/UserAuthSystem/userauthsystem/userauthsystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/savajankovic/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "/Users/savajankovic/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/savajankovic/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/Users/savajankovic/.nuget/packages/swashbuckle.aspnetcore/7.3.1/swashbuckle.aspnetcore.7.3.1.nupkg.sha512",
+    "/Users/savajankovic/.nuget/packages/swashbuckle.aspnetcore.swagger/7.3.1/swashbuckle.aspnetcore.swagger.7.3.1.nupkg.sha512",
+    "/Users/savajankovic/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.3.1/swashbuckle.aspnetcore.swaggergen.7.3.1.nupkg.sha512",
+    "/Users/savajankovic/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.3.1/swashbuckle.aspnetcore.swaggerui.7.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
